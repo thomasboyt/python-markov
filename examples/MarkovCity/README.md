@@ -1,0 +1,1 @@
+A Markov chain generator that uses the dialog from the wonderful [Jerkcity](http://jerkcity.com) Jerkcity as its base.
